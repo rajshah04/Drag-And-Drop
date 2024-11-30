@@ -1,0 +1,11 @@
+.nature-bg {
+  background: url('../public/bg.jpg') repeat center center fixed;
+  background-size: cover;
+  height: 106vh;
+  width: 100vw;
+  z-index: -100;
+}
+  
+.image-shadow-1{
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
