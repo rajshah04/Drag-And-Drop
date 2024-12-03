@@ -6,20 +6,14 @@
     git clone https://github.com/rajshah04/Drag-And-Drop.git
     ```
    
-2. Install the required packages in the main folder
-
-   ```
-   npm install
-   ```
-   
-3. Switch to server folder and install the required packages
+2. Install the required packages 
 
    ```
    npm install
    ```
 
-4. Back to the main folder, to run the program
+3. To run the program
 
    ```
-   npm run dev
+   npm start
    ```
